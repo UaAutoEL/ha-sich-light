@@ -1,0 +1,10 @@
+{
+  "domain": "sich",
+  "name": "Sich Light",
+  "documentation": "https://github.com/UaAutoEL/ha-sich-light",
+  "dependencies": [],
+  "codeowners": ["@UaAutoEL"],
+  "requirements": ["requests"],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
